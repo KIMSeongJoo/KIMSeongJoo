@@ -25,6 +25,8 @@ LANGUAGE
 IDE  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  
+![KIM SeongJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSeongJoo&theme=dark&show_icons=true)
 </div>
 
 
