@@ -22,10 +22,17 @@ LANGUAGE
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
+OS  
+![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=flat-square&logo=macOS&logoColor=white)
+  
+Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-AWS&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=Google-Cloud&logoColor=white)
+
 IDE  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  
+
 ![KIM SeongJoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSeongJoo&theme=dark&show_icons=true)
 </div>
 
